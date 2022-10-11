@@ -30,6 +30,6 @@ jobs:
         resourceGroupName: azuredatafactory
         dataFactoryName: adftestingtest-yash
         armTemplateFile: ./adftestingdev-yash/ARMTemplateForFactory.json
-        # armTemplateParametersFile: myArmTemplateParameters.json [optional]
+        armTemplateParametersFile: ./adftestingdev-yash/ARMTemplateParametersForFactory.json
         # additionalParameters: 'key1=value key2=value keyN=value' [optional]
         # skipAzModuleInstallation: true [optional]
