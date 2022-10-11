@@ -32,4 +32,4 @@ jobs:
         armTemplateFile: ./adftestingdev-yash/ARMTemplateForFactory.json
         armTemplateParametersFile: ./adftestingdev-yash/ARMTemplateParametersForFactory.json
         # additionalParameters: 'key1=value key2=value keyN=value' [optional]
-        # skipAzModuleInstallation: true [optional]
+        skipAzModuleInstallation: true [optional]
