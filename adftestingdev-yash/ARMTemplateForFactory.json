@@ -25,7 +25,7 @@
 						"userProperties": [],
 						"typeProperties": {
 							"variableName": "Test",
-							"value": "Sucess the action works"
+							"value": "Sucess the action works in dev env"
 						}
 					}
 				],
